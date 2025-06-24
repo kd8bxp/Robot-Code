@@ -7,7 +7,7 @@ Feel free to use any of this, or none of this - As with most things the IDE has 
 Most of this code is old, so there is no promises made that any of it will still work.
 (It all worked at one time thou)
 
-A lot of this code is my own, some of it is not - and maybe under a different license.
+some of this code is my own, some of it is not - and maybe under a different license.
 
 
 ## Contributing
